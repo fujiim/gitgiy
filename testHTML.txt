@@ -1,0 +1,27 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" type="text/css">
+</head>
+<body>
+<h1>早春に咲く桜</h1>
+<p>満開の桜の下を歩きながら、ひらひらと舞い下りる花びらを堪能し、風情にひたり、時としてロマンチックな想いにかられる。<br>
+桜は表情を変え、日の光によって色を変え、私に大いなる喜びを提供してくる。</p>
+<ul>
+<li>寒桜</li>
+<li>紅枝垂</li>
+<li>河津桜</li>
+<li>寒緋桜</li>
+<li>修善寺寒桜</li>
+<li>大寒桜</li>
+<li>江戸彼岸</li>
+<li>小彼岸</li>
+<li>越の彼岸</li>
+<li>雛菊桜</li>
+<li>大島桜</li>
+<li>大漁桜</li>
+</ul>
+</body>
+</html>
